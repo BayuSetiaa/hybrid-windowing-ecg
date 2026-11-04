@@ -142,10 +142,6 @@ The MIT-BIH Arrhythmia Database is not redistributed here. Please cite its sourc
 
 The DS1/DS2 partition follows de Chazal, P., O'Dwyer, M., and Reilly, R. B., *IEEE Transactions on Biomedical Engineering*, 51(7), 1196-1206, 2004. https://doi.org/10.1109/TBME.2004.827359
 
-## Acknowledgement of AI assistance
-
-The code was written with the assistance of Claude (Anthropic) and checked by the authors, as declared in the article.
-
 ## License
 
 The code is released under the [MIT License](LICENSE).
