@@ -122,6 +122,8 @@ The reported scores come from two environments. Scores changed between them, inc
 
 This repository uses the settings of the second environment, so re-running the groups behind Tables 4 to 6 will not reproduce their exact values. The values recorded for both environments are in `results/`.
 
+This release restructures the scripts used for the reported runs. It rebuilds the same segments and windows as those scripts and gave identical predictions in 25 short test runs (one epoch on CPU, TensorFlow 2.18). The full set of runs has not been repeated with this release, so the values in `results/` come from the original scripts.
+
 ## Limitations
 
 - The evaluation is limited to 44 records from one database, and no external validation was performed.
