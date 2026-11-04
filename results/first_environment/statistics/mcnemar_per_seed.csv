@@ -1,0 +1,26 @@
+comparison,seed,A_correct_B_wrong,A_wrong_B_correct,mcnemar_exact_p
+hw_only vs baseline,0,488,6259,0.0
+hw_only vs baseline,1,152,4657,0.0
+hw_only vs baseline,2,732,7537,0.0
+hw_only vs baseline,3,1979,10124,0.0
+hw_only vs baseline,4,670,4847,0.0
+hw_cw vs cw_only,0,11368,8292,4.9129746214226144e-107
+hw_cw vs cw_only,1,4813,23708,0.0
+hw_cw vs cw_only,2,5289,10417,0.0
+hw_cw vs cw_only,3,7247,16262,0.0
+hw_cw vs cw_only,4,7153,9979,8.900508433178316e-104
+cw_only vs baseline,0,1574,14800,0.0
+cw_only vs baseline,1,1348,8474,0.0
+cw_only vs baseline,2,1825,8018,0.0
+cw_only vs baseline,3,1522,8399,0.0
+cw_only vs baseline,4,1284,8820,0.0
+hw_cw vs hw_only,0,2529,6908,0.0
+hw_cw vs hw_only,1,888,22404,0.0
+hw_cw vs hw_only,2,1385,5901,0.0
+hw_cw vs hw_only,3,2348,10095,0.0
+hw_cw vs hw_only,4,1285,7470,0.0
+hw_cw vs baseline,0,1702,11852,0.0
+hw_cw vs baseline,1,579,26600,0.0
+hw_cw vs baseline,2,1176,12497,0.0
+hw_cw vs baseline,3,2359,18251,0.0
+hw_cw vs baseline,4,773,11135,0.0

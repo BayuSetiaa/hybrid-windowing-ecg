@@ -1,0 +1,7 @@
+protocol,experiment,first_environment_macro_f1,second_environment_macro_f1,first_environment_weighted_f1,second_environment_weighted_f1
+ds1ds2,baseline,0.4426 ± 0.0481,0.4330 ± 0.0142,0.9065 ± 0.0140,0.9071 ± 0.0063
+ds1ds2,cw_only,0.4300 ± 0.0236,0.4001 ± 0.0504,0.8094 ± 0.0342,0.7802 ± 0.0618
+ds1ds2,hw_only,0.3690 ± 0.0244,0.3882 ± 0.0568,0.8286 ± 0.0265,0.8148 ± 0.0346
+ds1ds2,hw_cw,0.3425 ± 0.0465,0.3566 ± 0.0563,0.6974 ± 0.1127,0.7375 ± 0.0703
+intra,cw_only,0.7567 ± 0.0649,0.7297 ± 0.1064,0.9493 ± 0.0207,0.9461 ± 0.0252
+intra,hw_cw,0.9668 ± 0.0036,0.9658 ± 0.0009,0.9760 ± 0.0022,0.9747 ± 0.0015

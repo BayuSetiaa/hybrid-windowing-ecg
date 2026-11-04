@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Hybrid Windowing for ECG Class Balancing"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/BayuSetiaa/hybrid-windowing-ecg"
+abstract: "Reference implementation of adaptive stride and energy pooling hybrid windowing for electrocardiogram class balancing, with intra-patient and patient-independent evaluation on the MIT-BIH Arrhythmia Database."
+authors:
+  - family-names: Zaky
+    given-names: Umar
+    affiliation: "Universitas Teknologi Yogyakarta"
+    email: umarzaky@uty.ac.id
+  - family-names: Noersasongko
+    given-names: Edi
+    affiliation: "Universitas Dian Nuswantoro"
+  - family-names: Purwanto
+    affiliation: "Universitas Dian Nuswantoro"
+  - family-names: Syukur
+    given-names: Abdul
+    affiliation: "Universitas Dian Nuswantoro"
+  - family-names: Setia
+    given-names: Bayu
+    affiliation: "Universitas Teknologi Yogyakarta"
+  - family-names: Al Faiz
+    given-names: Muhammad Falah Akbar
+    affiliation: "Universitas Teknologi Yogyakarta"

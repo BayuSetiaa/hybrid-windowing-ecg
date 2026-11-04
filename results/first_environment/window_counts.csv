@@ -1,0 +1,15 @@
+protocol,set,N,S,V,F,major,minority_rank,stride_map
+ds1ds2,val_static,8649,120,700,23,,,
+ds1ds2,test_static,42788,1719,2917,382,,,
+ds1ds2,train_static,36000,431,2605,331,,,
+ds1ds2,train_hybrid_max_g3,12384,3162,7738,1264,N,"['V', 'S', 'F']","{'V': 288, 'S': 72, 'F': 37}"
+intra,all_static,87437,2270,6222,736,,,
+intra,all_hybrid_max_g3,30028,12765,17093,3181,,,
+intra,all_hybrid_max_g2,45042,12765,17093,3181,,,
+intra,all_hybrid_max_g4,22521,12765,17093,3181,,,
+intra,all_hybrid_mean_g2,45042,12765,17093,3181,,,
+intra,all_hybrid_mean_g3,30028,12765,17093,3181,,,
+intra,all_hybrid_mean_g4,22521,12765,17093,3181,,,
+intra,all_hybrid_min_g2,45042,12765,17093,3181,,,
+intra,all_hybrid_min_g3,30028,12765,17093,3181,,,
+intra,all_hybrid_min_g4,22521,12765,17093,3181,,,
